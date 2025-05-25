@@ -10,13 +10,12 @@
     <tr>
         <td colspan="2"> 
             <p align="center">
-👋 Hi there! I'm a Software Engineer with experience in building web applications and backend systems.
+Software Engineer
 💻 Tech Stack:
 Backend: Java (Spring Framework), Node.js, NestJS, Laravel, Python etc.
 Frontend: ReactJS, NextJS, etc.
 
-I focus on writing clean, maintainable code and enjoy solving challenging problems while learning and improving along the way.
-
+focus on writing clean, maintainable code and enjoy solving challenging problems while learning and improving along the way.
 This is my second account, which I use for storing public repositories and experimenting with new ideas.
             </p>
             <p align="center">
